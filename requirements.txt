@@ -1,0 +1,4 @@
+opencv-python>=4.5
+numpy>=1.21
+# RPi.GPIO is only needed on the Raspberry Pi; on a PC the app auto-mocks it.
+# RPi.GPIO>=0.7 ; platform_machine == "armv7l"

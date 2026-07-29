@@ -1,0 +1,15 @@
+# Secrets
+.env
+*.key
+pushover.txt
+TWILIO*.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
