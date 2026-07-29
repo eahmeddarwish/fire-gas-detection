@@ -17,7 +17,7 @@
 
 </div>
 
-![Fire & Gas Detection](docs/hero.png)
+![Fire & Gas Detection](docs/fire-gas-detection.png)
 
 ---
 
